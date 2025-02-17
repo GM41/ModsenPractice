@@ -7,7 +7,9 @@ public class Main {
         number.isItPalindrome();*/
         /*SecondTask a = new SecondTask();
         a.TwoSum();*/
-        ThirdTask a = new ThirdTask();
-        a.SingleNumber();
+        /*ThirdTask a = new ThirdTask();
+        a.SingleNumber();*/
+        FourthTask a = new FourthTask();
+        a.ContainsDuplicate();
     }
 }
